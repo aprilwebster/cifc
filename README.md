@@ -11,7 +11,7 @@ Canadian Investment Funds Course Study Resources
 
    
 ### Course Outline
-| Unit | Name | Time | Reading Done | Quiz |
+| Unit | Name | Time | Reading Completed | Quiz Completed |
 | ---- | ---- | ---- | ---- | ---- | 
 | 1 | Regulatory Environment | 30 min | | |
 | 2 | Registrant Responsibilities | 1h 30 min | | |
