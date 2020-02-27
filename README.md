@@ -2,6 +2,12 @@
 Canadian Investment Funds Course Study Resources
 
 ### Exams
+#### Format
+- 100 multiple choice questions
+- 90 minutes to complete (CHECK THIS)
+
+
+#### Scheduling
 - 3 attempts to take the exam within a year of registering
 - Exam locations in BC:
    - Surrey: COMFORT INN & SUITES SURREY HOTEL (Exams on Sundays: April 5, 26; May 10, 24)
