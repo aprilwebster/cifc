@@ -15,4 +15,6 @@ Canadian Investment Funds Course Study Resources
 | 9 | Retirement | 1h 45 min | |
 | 10 | Taxation | 1 h | |
 | 11 | Making Recommendations | 1h 15 min | |
+|--- | ---- | ---- | ---- |
+
 **Total Time:** 18hrs
