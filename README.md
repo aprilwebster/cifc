@@ -1,9 +1,15 @@
 # cifc
 Canadian Investment Funds Course Study Resources
 
-### Timeline
-- Exam Date: April 
+### Exams
+- 3 attempts to take the exam within a year of registering
+- Exam locations in BC:
+   - Surrey: COMFORT INN & SUITES SURREY HOTEL (Exams on Sundays: April 5, 26; May 10, 24)
+   - Burnaby: BCIT Burnaby Campus (Exams on Fridays: April 24, May 29)
+   - Vancouver: BCIT Vancouver (Exams on Saturdays: April 4, 18, 25; May 9, 23, 30)
+- IFSE must receive an exam scheduling request at least 10 calendar days prior to (and not including) the selected examination date otherwise a late fee will apply.
 
+   
 ### Course Outline
 | Unit | Name | Time | Reading Done | Quiz |
 | ---- | ---- | ---- | ---- | ---- | 
