@@ -18,6 +18,18 @@ There are different types of mutual funds based on the goal of the MF
 3. __Growth MF__ - are more likely to increase in value over time, but come at a higher risk.  The hope is that the market price will increase and be more than the original purchase price when they sell.  
    - often recommended when you're younger and have more time to invest before retiring
 
+### Why do Corporations and Government issue Securities?
+To raise capital (i.e., money) to pay for stuff
+
+#### Governments
+- Pay for public spending on things like roads, healthcare, military
+- 3 Types that differ in how long it takes for them to mature:
+   1. Short-term: <= 5 yrs
+      - treasury bills, and provincial or municipal short-term papers.
+   2. Medium-term: 5-10 yrs
+      - municipal (city/town), provincial or federal __bonds__
+   3. Long-term: 10+ yrs
+      - Government of Canada __bonds__
 
 ## Lesson 2: Fixed Income Securities
 Debt issued by corporation or governments.  The client is really lending their money to the corp/govt for them to use and they pay you interest on it.
