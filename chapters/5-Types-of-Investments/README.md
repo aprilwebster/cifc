@@ -19,12 +19,12 @@ There are different types of mutual funds based on the goal of the MF
    - often recommended when you're younger and have more time to invest before retiring
 
 
-### Lesson 2: Fixed Income Securities
+## Lesson 2: Fixed Income Securities
 Debt issued by corporation or governments.  The client is really lending their money to the corp/govt for them to use and they pay you interest on it.
 
-### Lesson 3: Bonds
+## Lesson 3: Bonds
 
-### Lesson 4: Equities
+## Lesson 4: Equities
 
 
-### Lesson 5: Derivatives
+## Lesson 5: Derivatives
