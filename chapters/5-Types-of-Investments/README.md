@@ -44,10 +44,11 @@ To raise capital (i.e., money) to pay for stuff
 ## Lesson 2: Fixed Income Securities
 Debt issued by corporation or governments.  The client is really lending their money to the corp/govt for them to use and they pay you interest on it.
 
-| Category | Maturity | Price | Investment Objective| Types |
-|----| ----| ----| ---- | ------ |
-| Money Market Securities | | | | |
-| Treasure Bills (T-Bills) | | | | |
+
+| Category | Maturity | Price | Investment Objective| Risk | Types |
+|----| ----| ----| ---- | ---- | ------ |
+| Money Market Securities | < 1 year | stable (doesn't fluctuate much) | Very low | T-Bills, Short-term papers, BAs, CPs|
+| Bonds | | | | |
 | (Municipal + Provincial) Short-term Papers | | | | |
 | Bankers' Acceptances (BAs) | | | | |
 | Commercial Papers (CPs) | | | | |
